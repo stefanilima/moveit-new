@@ -31,9 +31,9 @@ Para rodar este projeto em dev, basta rodar o seguinte comando:
 yarn dev
 ```
 
-:arrow_forward:  O acesso para desenvolvimento pode ser efetuado através do link: http://localhost:3000
+O acesso para desenvolvimento pode ser efetuado através do link: http://localhost:3000
 
-## Link de acesso à Produção: :tada:
+## :tada: Link de acesso à Produção: 
 
 Para o deploy foi utilizado a plataforma Verce e pode ser acessado através do link:
 
